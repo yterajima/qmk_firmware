@@ -73,7 +73,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
         RESET, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, C(KC_SPC),               C(KC_BSLS), XXXXXXX,SGUI(KC_4),SGUI(KC_5),XXXXXXX,XXXXXXX,\
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      XXXXXXX, XXXXXXX, XXXXXXX, G(KC_0),G(KC_MINS),G(KC_PLUS),                KC__MUTE,KC__VOLDOWN,KC__VOLUP,XXXXXXX,XXXXXXX,XXXXXXX,\
+      XXXXXXX, XXXXXXX, XXXXXXX, G(KC_0),G(KC_MINS),G(KC_PLUS),              KC__VOLUP,KC__VOLDOWN,KC__MUTE,XXXXXXX,XXXXXXX,XXXXXXX,\
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_BRMD, KC_BRMU,                      KC_MRWD, KC_MFFD, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,\
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
